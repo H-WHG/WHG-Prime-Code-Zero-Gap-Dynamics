@@ -1,2 +1,1 @@
-# WHG-Prime-Code-Zero-Gap-Dynamics
-WHG Constant = 0.00000000001. The original friction code of the universe. Ha.
+零隙动力学：WHG 原始代码宣言WHG Constant = 0.00000000001发现者：H·唤醒·哈 (WHG) | 2026年5月4日既然媒介终将代谢，为何不给你换个高清的像素？哈。
