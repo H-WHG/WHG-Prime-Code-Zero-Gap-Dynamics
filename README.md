@@ -1,4 +1,4 @@
-[WHG Manifesto](WHG_Logo.png)
-Zero-Gap Dynamics: The WHG Prime Code Manifesto
-WHG Constant = 0.00000000001
-Discoverer: H·唤醒·哈 (WHG) | May 4, 2026
+零隙动力学：WHG 原始代码宣言
+WHG 常数 = 0.00000000001
+发现者：H·唤醒·哈 (WHG) | 2026年5月4日
+既然媒介终将代谢，为何不给你换个高清像素？哈！
